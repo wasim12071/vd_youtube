@@ -1,0 +1,39 @@
+.mainContent
+{
+    padding-left: 7%;
+    padding-right: 7%;
+    padding-top: 1rem;
+}
+
+.borderNow
+{
+    border: 1px solid black;
+}
+
+.padding-1rem
+{
+    padding: 1rem;
+}
+
+.playList
+{
+    border-bottom: 1px solid #a9aaab;
+    background-color: #3e3f40;
+    color: white;
+}
+
+.mainList
+{
+    background-color: #1d1e1f;
+}
+
+.videoTitle
+{
+    font-weight: bold;
+}
+
+.videoChannel
+{
+    font-weight: 300;
+    font-style: italic;
+}
